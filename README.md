@@ -1,3 +1,3 @@
 # Proyecto DH-PREGUNTAS
 
-El proposito es explicar positions.
+El proposito es explicar GIT.
