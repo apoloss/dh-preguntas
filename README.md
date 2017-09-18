@@ -1,1 +1,3 @@
-# dh-preguntas
+# Proyecto DH-PREGUNTAS
+
+El proposito es explicar positions.
